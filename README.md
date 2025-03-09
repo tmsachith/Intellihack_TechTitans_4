@@ -11,8 +11,8 @@ This project develops a machine learning model to predict stock closing prices 5
 
 ## Repository Structure
 - `stock_prediction.ipynb`: Main Jupyter notebook with complete analysis and code
-- `eda_report.pdf`: Detailed exploratory data analysis report
-- `model_selection.pdf`: Documentation of model comparison and selection process
+- `eda_report.md`: Detailed exploratory data analysis report
+- `model_selection.md`: Documentation of model comparison and selection process
 - `predictions.csv`: CSV file with predictions for the test period
 - `README.md`: This file
 
